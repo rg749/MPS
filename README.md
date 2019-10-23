@@ -1,2 +1,2 @@
 # MPS
-work on diversification of HVI, done in collaboration with Home Diversification Corp.
+work on diversification of HVI as a part of MPS project, done in collaboration with Home Diversification Corp.
